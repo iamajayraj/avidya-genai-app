@@ -1,0 +1,13 @@
+langchain_community
+bs4
+langchain_huggingface
+langchain_groq
+langchain
+dotenv
+faiss-cpu
+streamlit
+requests
+lxml
+pandas
+numpy
+unstructured
