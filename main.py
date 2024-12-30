@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
+#Keys
 HF_TOKEN = os.getenv("HF_TOKEN")
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 
